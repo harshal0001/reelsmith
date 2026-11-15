@@ -25,7 +25,7 @@ The video uses a white dotted notebook background. The upper 70% is a workboard 
 
 ## Screenshots
 
-Follow the workflow from topic to reel, in chronological order.
+Follow the workflow from topic to reel, in chronological order. These were captured in the editor's demo mode (`?mock=1`), so research, audio, and scene previews show placeholder data.
 
 ![Reelsmith workflow — step 1](assets/ss/one.png)
 
